@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067607305935",
+    "project_id": "testdb-ce15d",
+    "storage_bucket": "testdb-ce15d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067607305935:android:4c9def11efd56357a0d1ba",
+        "android_client_info": {
+          "package_name": "com.test.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr1kn4aT2ZfILfAC0HDS_5ePFmHZNinkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
